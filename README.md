@@ -1,6 +1,6 @@
-<center> 
+<p align="center"> 
     <img src="img/readmeheader.png"></img>
-</center>
+</p>
 
 ---
 
