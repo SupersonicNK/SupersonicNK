@@ -3,8 +3,15 @@
 </p>
 
 ---
-
 Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more stuff in the future. If you're a regular in the community, you might know me for the **Abyss Rune Buddy**, or for **Abyss Hime**. Welcome to my Github Profile, I guess.
+
+
+### My ongoing projects:
+- Rokesha (OC belonging to The Slugger/Sakamoto4)
+- Katsu (OC belonging to [Sprite_Star0](https://twitter.com/Sprite_Star0))
+- ??? (dunno if i can name this one off yet)
+- Lumi (OC)
+- Rune Buddy overhaul
 
 ---
 
