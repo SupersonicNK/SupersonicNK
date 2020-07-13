@@ -7,11 +7,11 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 
 ### My ongoing projects:
-- Rokesha (OC belonging to [The Slugger/Sakamoto4](https://twitter.com/rau_derek))
-- Katsu (OC belonging to [Sprite_Star0](https://twitter.com/Sprite_Star0))
-- ??? (dunno if i can name this one off yet)
-- Lumi (OC)
-- Rune Buddy overhaul
+- Rokesha (OC belonging to [The Slugger/Sakamoto4](https://twitter.com/rau_derek), code)
+- Katsu (OC belonging to [Sprite_Star0](https://twitter.com/Sprite_Star0), code)
+- ??? (dunno if i can name this one off yet, code)
+- Lumi (OC, sprites, code)
+- Rune Buddy overhaul (sprites, code)
 
 ---
 
