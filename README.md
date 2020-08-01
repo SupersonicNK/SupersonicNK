@@ -17,7 +17,6 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 This place is kind of a barren wasteland at the moment. My current plans are:
 
-- [ ] make a repo for rune buddy. it'll probably be private until the overhaul happens since i don't want to encourage looking at my old code
 - [ ] fill it with useful stuff, like examples of good practices with my jank buddy. for now, [this is where you can learn to use it.](https://steamcommunity.com/sharedfiles/filedetails/?id=1949379063)
 - [x] contemplate making a general roa example repo. still thinking about it.
 
