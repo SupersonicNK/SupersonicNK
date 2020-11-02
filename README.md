@@ -9,15 +9,12 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 ### My ongoing projects:
 - Rokesha (OC belonging to [The Slugger/Sakamoto4](https://twitter.com/rau_derek), code)
 - Katsu (OC belonging to [Sprite_Star0](https://twitter.com/Sprite_Star0), code)
-- ??? (dunno if i can name this one off yet, code)
+- 2B (character from Nier Automata, pod code)
 - Lumi (OC, sprites, code)
-- Rune Buddy overhaul (sprites, code)
 
 ---
 
 This place is kind of a barren wasteland at the moment. My current plans are:
-
-- [ ] fill it with useful stuff, like examples of good practices with my jank buddy. for now, [this is where you can learn to use it.](https://steamcommunity.com/sharedfiles/filedetails/?id=1949379063)
 - [x] contemplate making a general roa example repo. still thinking about it.
 
 
