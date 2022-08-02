@@ -7,10 +7,14 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 
 ### My ongoing projects:
-- Rokesha (OC belonging to [The Slugger/Sakamoto3](https://twitter.com/rau_derek), code)
+
+- Kazuki DX (OC, sprites, code)
 - Katsu (OC belonging to [Sprite_Star0](https://twitter.com/Sprite_Star0), code)
+
+### Previous Projects:
+
+- Rokesha (OC belonging to [The Slugger/Sakamoto3](https://twitter.com/rau_derek), code)
 - 2B (character from Nier Automata, pod code)
-- Lumi (OC, sprites, code)
 
 ---
 
