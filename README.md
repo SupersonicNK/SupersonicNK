@@ -13,8 +13,16 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 ### Previous Projects:
 
+- Rivals of Fighter (helped with code, refactor)
 - Rokesha (OC belonging to [The Slugger/Sakamoto3](https://twitter.com/rau_derek), code)
 - 2B (character from Nier Automata, pod code)
+- Ani (assistance with items)
+- Yuuto Ichika (original) (colors, assistance with some moves)
+- Abyss Hime (pretty much everything that wasn't in hime already)
+- Hime (grapple consistency, some refactors, runes)
+- Abyss Rune Buddy (everything. now deprecated)
+
+
 
 ---
 
