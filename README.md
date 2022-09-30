@@ -8,7 +8,6 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 ### My ongoing RoA projects
 
 - Kazuki DX (OC, sprites, code)
-- Katsu (OC belonging to [Sprite_Star0][spar], code)
 
 ### Previous RoA projects
 
