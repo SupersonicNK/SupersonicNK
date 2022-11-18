@@ -31,7 +31,6 @@ my socials:
 
 [twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink]
 
-
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
