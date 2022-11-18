@@ -26,6 +26,12 @@ This place is kind of a barren wasteland at the moment. My current plans are:
 
 - [x] contemplate making a general roa example repo. still thinking about it.
 
+---
+my socials:
+
+[twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink]
+
+
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,3 +65,9 @@ Here are some ideas to get you started:
 [rof]: https://steamcommunity.com/sharedfiles/filedetails/?id=2400287174
 [roft]: https://steamcommunity.com/sharedfiles/filedetails/?id=2530030247
 [toob]: https://steamcommunity.com/sharedfiles/filedetails/?id=2244131685
+
+<!--my socials-->
+[twt]: https://twitter.com/SupersonicNK
+[tmb]: https://www.tumblr.com/supersonicnk
+[ink]: https://inkblot.art/profile/supersonicnk
+[coh]: https://cohost.org/SupersonicNK
