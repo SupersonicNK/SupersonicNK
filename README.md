@@ -27,9 +27,9 @@ This place is kind of a barren wasteland at the moment. My current plans are:
 - [x] contemplate making a general roa example repo. still thinking about it.
 
 ---
-my socials:
+## my socials:
 
-[twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink]
+## [twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink]
 
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
