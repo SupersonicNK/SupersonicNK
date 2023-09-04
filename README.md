@@ -29,7 +29,7 @@ This place is kind of a barren wasteland at the moment. My current plans are:
 ---
 ## my socials:
 
-## [twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink]
+## [twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink] - [bluesky][bsky]
 
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 [tmb]: https://www.tumblr.com/supersonicnk
 [ink]: https://inkblot.art/profile/supersonicnk
 [coh]: https://cohost.org/SupersonicNK
+[bsky]: https://bsky.app/profile/supersonicnk.bsky.social
