@@ -9,8 +9,10 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 - Kazuki DX (OC, sprites, code)
 
-### Previous RoA projects
-
+### Previous projects
+#### Rivals of Aether mods
+- [Celia][floppa] (character by [JustJerome][jerome], code)
+- [Combi Ring Rivalry][combi] (everything. gamemode buddy based on chaotix)
 - [Rivals of Fighter][rof] (and [turbo][roft]) (Stage by [DinoBros][dino], helped with code, refactor)
 - [Rokesha][rokesha] (OC belonging to [The Slugger/Sakamoto3][saka], code)
 - [2B][toob] (character from Nier Automata, pod code)
@@ -19,7 +21,9 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 - [Abyss Hime][ahime] (OC belonging to [The Slugger/Sakamoto3][saka], everything that wasn't in hime)
 - [Hime][hime] (OC belonging to [The Slugger/Sakamoto3][saka], grapple consistency, some refactors, runes)
 - [Abyss Rune Buddy][runes] (everything. now deprecated)
-
+#### Your Only Move Is Hustle mods
+- [Mod Options Menu][hustlemom] (everything. adds an options menu for modders to hook)
+- [Custom Stage Loader][hustlesl] (helped with a little code.)
 ---
 
 This place is kind of a barren wasteland at the moment. My current plans are:
@@ -49,12 +53,15 @@ Here are some ideas to get you started:
 <!--Links-->
 
 <!--people-->
+[jerome]: https://twitter.com/JamesSaucedo5
 [saka]: https://twitter.com/rau_derek
 [chaoko]: https://twitter.com/CHAOKOCartoons
 [chair]: https://twitter.com/ChairGTables
 [dino]: https://twitter.com/DinoBros_
 [spar]: https://twitter.com/Sprite_Star0
 <!--items-->
+[combi]: https://steamcommunity.com/sharedfiles/filedetails/?id=2910423908
+[floppa]: https://steamcommunity.com/sharedfiles/filedetails/?id=3139709090
 [runes]: https://steamcommunity.com/sharedfiles/filedetails/?id=1927636848
 [rokesha]: https://steamcommunity.com/sharedfiles/filedetails/?id=2561479115
 [ahime]: https://steamcommunity.com/sharedfiles/filedetails/?id=1968648848
@@ -64,6 +71,9 @@ Here are some ideas to get you started:
 [rof]: https://steamcommunity.com/sharedfiles/filedetails/?id=2400287174
 [roft]: https://steamcommunity.com/sharedfiles/filedetails/?id=2530030247
 [toob]: https://steamcommunity.com/sharedfiles/filedetails/?id=2244131685
+
+[hustlemom]: https://steamcommunity.com/sharedfiles/filedetails/?id=2931722541
+[hustlesl]: https://steamcommunity.com/sharedfiles/filedetails/?id=2931557090
 
 <!--my socials-->
 [twt]: https://twitter.com/SupersonicNK
