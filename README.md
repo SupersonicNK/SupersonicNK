@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/SupersonicNK/SupersonicNK/master/img/readmeheader.png"></img>
+    <img src="https://raw.githubusercontent.com/SupersonicNK/SupersonicNK/master/img/header.webp"></img>
 </p>
 
 ---
