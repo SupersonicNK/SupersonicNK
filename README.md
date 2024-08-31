@@ -7,7 +7,7 @@ Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more
 
 ### My ongoing RoA projects
 
-- ??? (OC, sprites, code)
+- Lumi (OC, sprites, code)
 - Kazuki DX (OC, sprites, code)
 
 ### Previous projects
