@@ -34,7 +34,7 @@ This place is kind of a barren wasteland at the moment. My current plans are:
 ---
 ## my socials:
 
-## [twitter][twt] - [tumblr][tmb] - [cohost][coh] - [inkblot][ink] - [bluesky][bsky]
+## [bluesky][bsky] - [twitter][twt] - [tumblr (inactive for now)][tmb] - [inkblot (inactive for now)][ink]
 
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
