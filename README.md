@@ -3,15 +3,17 @@
 </p>
 
 ---
-Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more stuff in the future. If you're a regular in the community, you might know me for the **Abyss Rune Buddy**, or for **Abyss Hime**. Welcome to my Github Profile, I guess.
+Hi! I'm Supersonic, developer of some Rivals of Aether mods.. and hopefully more stuff in the future. If you're a regular in the community, you might know me for **Lumi, the Winter's Embrace**, or for helping people. Welcome to my Github Profile, I guess.
 
 ### My ongoing RoA projects
 
-- Lumi (OC, sprites, code)
-- Kazuki DX (OC, sprites, code)
+- currently debating what to do next.
 
 ### Previous projects
+#### Games
+- Chrono Gear: Warden of Time (Programmer)
 #### Rivals of Aether mods
+- [Lumi][lumi] (i made this)
 - [Celia][floppa] (character by [JustJerome][jerome], code)
 - [Combi Ring Rivalry][combi] (everything. gamemode buddy based on chaotix)
 - [Rivals of Fighter][rof] (and [turbo][roft]) (Stage by [DinoBros][dino], helped with code, refactor)
@@ -35,6 +37,8 @@ This place is kind of a barren wasteland at the moment. My current plans are:
 ## my socials:
 
 ## [bluesky][bsky] - [twitter][twt] - [tumblr (inactive for now)][tmb] - [inkblot (inactive for now)][ink]
+
+(I'm pretty inactive on socials generally, though.)
 
 <!--
 **SupersonicNK/SupersonicNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,6 +76,7 @@ Here are some ideas to get you started:
 [rof]: https://steamcommunity.com/sharedfiles/filedetails/?id=2400287174
 [roft]: https://steamcommunity.com/sharedfiles/filedetails/?id=2530030247
 [toob]: https://steamcommunity.com/sharedfiles/filedetails/?id=2244131685
+[lumi]: https://steamcommunity.com/sharedfiles/filedetails/?id=3633964303
 
 [hustlemom]: https://steamcommunity.com/sharedfiles/filedetails/?id=2931722541
 [hustlesl]: https://steamcommunity.com/sharedfiles/filedetails/?id=2931557090
